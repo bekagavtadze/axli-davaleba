@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+
+.active{
+    color: #696969;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+}
+
+header section{
+    width: 100%;
+    height: 80px;
+}
+
+section article {
+    width: 30%;
+    height: 100%;
+}
+section article div{
+    margin: 40px 150px;
+}
+
+section article nav{
+    
+}
